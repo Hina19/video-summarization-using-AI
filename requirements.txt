@@ -1,0 +1,8 @@
+streamlit
+opencv-python
+transformers
+torch
+pillow
+moviepy
+gtts
+scenedetect[opencv]
